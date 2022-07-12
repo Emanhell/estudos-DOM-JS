@@ -1,0 +1,9 @@
+div#area{
+    background: rgb(191, 241, 191);
+    color: rgb(16, 15, 15);
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+
+}
