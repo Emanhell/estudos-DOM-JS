@@ -1,6 +1,6 @@
 var a = window.document.getElementById('area')
 function clicar() {
-    a.innerText = 'clicou!'
+    a.innerText = 'Clicou!'
     a.style.background = 'red'
 }
 
@@ -11,6 +11,6 @@ function entrar() {
 
 function saiu() {
     a.innerText = 'Saiu!'
-    a.style.background = 'rgb(191, 241, 191);'
+    a.style.background = 'rgb(191, 241, 191)'
 }
 
