@@ -6,3 +6,7 @@ input{
     font: normal 18pt Arial;
     width: 100px
 }
+
+div#res{
+    margin-top: 20px;
+}
